@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мониторинг давления</string>
+    <string name="txtFIO">ФИО</string>
+    <string name="txtAge">Возраст</string>
+    <string name="txtSave">Сохранить</string>
+    <string name="txtPress">Экран давления</string>
+    <string name="txtHealth">Экран здоровья</string>
+    <string name="chektxt">Тахикардия</string>
+    <string name="txtUP">Верхнее давление</string>
+    <string name="txtDown">Нижнее давление</string>
+    <string name="txtPuls">Пульс</string>
+    <string name="txtclock">Дата замера- и время</string>
+    <string name="txtstep">Количество шагов</string>
+    <string name="txtweight">Вес</string>
+    <string name="erorText">Неверно введено значение</string>
+
+</resources>
