@@ -15,15 +15,15 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        Save();
+        Save();
         Pressure();
         Health();
 
 
     }
     private void Save(){
-        Button btnSave = findViewById(R.id.btnSave);
-        btnSave.setOnClickListener(new View.OnClickListener() {
+        Button btnSa = findViewById(R.id.btnSa);
+        btnSa.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 int AgeValue = 0;
